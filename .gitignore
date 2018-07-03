@@ -1,6 +1,9 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
+# ignore Maven generated target folders
+target
+
 ### STS ###
 .apt_generated
 .classpath

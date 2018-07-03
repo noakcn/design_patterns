@@ -11,6 +11,8 @@
         <module>strategy</module>
         <module>singleton</module>
         <module>factory</module>
+        <module>factory-kit</module>
+        <module>factory-method</module>
     </modules>
     <packaging>pom</packaging>
 
